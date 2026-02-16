@@ -1,5 +1,5 @@
-# FinalProject
-This is a repository for the STATS 507 final project.
+# Sentiment Analysis of TripAdvisor Hotel Reviews
+This is a repository for the Sentiment Analysis of TripAdvisor Hotel Reviews project.
 
 ## Abstract
 
